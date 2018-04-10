@@ -1,0 +1,12 @@
+﻿/* TEAM */
+
+Developer: AHMED 
+Site: https://mihrezz.github.io, https://github.com/mihrezz: @mihrezz
+Location: liege, Belgium
+
+/* SITE */
+
+Last Update: 2018/04/06
+Standards: HTML5, CSS3
+Components: MelonJS, jQuery
+Software: VIM, Photoshop
